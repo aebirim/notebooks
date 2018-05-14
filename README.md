@@ -12,4 +12,4 @@ Committees would like this data to become actionable so that they can see, from 
 
 ## **Objective**
 
-To determine scientifically through the use of machine learning, and data, if the submission process was fair and without bias. The conclusions of this project will be presented to Committees as part of Government’s ongoing desire to improve representation amongst specifically underrepresented groups link and drive engagement among the general public.
+To determine scientifically through the use of machine learning, and data, if the submission process was fair and without bias. The conclusions of this project will be presented to Committees as part of Government’s ongoing desire to improve representation amongst underrepresented groups and drive engagement among the general public.
